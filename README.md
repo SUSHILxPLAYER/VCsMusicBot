@@ -1,9 +1,9 @@
-<h1 align="centre">VCsMusicBot v5.0</h1>
+<h1 align="centre">NavyAMusicBot v5.0</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 
 <p align="center">
-  <a href="https://github.com/LushaiMusic/VCsMusicBot">
+  <a href="https://github.com/SUSHILxPLAYER/VCsMusicBot">
      <img height="30px" src="https://img.shields.io/badge/Group%20Music%20Bot-red?style=for-the-badge&logo=github">
   </a>
 </p>
