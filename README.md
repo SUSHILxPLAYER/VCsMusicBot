@@ -19,11 +19,11 @@
 Before clicking on deploy to heroku just click on fork and star just below
 
 <p align="center">
-  <a href="https://github.com/LushaiMusic/VCsMusicBot/fork">
+  <a href="https://github.com/SUSHILxPLAYER/VCsMusicBot/fork">
     <img src="https://img.shields.io/github/forks/LushaiMusic/VCsMusicBot?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/LushaiMusic/GroupMusicBot">
+  <a href="https://github.com/SUSHILxPLAYER/VCsMusicBot">
     <img src="https://img.shields.io/github/stars/LushaiMusic/VCsMusicBot?style=social">
   </a>
 </p>
@@ -136,8 +136,11 @@ If you donlt like to play in linked channel:
 - `.a` - approove someone to pm you
 - `.da` - disapproove someone to pm you
 + Sudo Users can execute any command in any groups
+143
+- [Rojserbest](http://github.com/rojserbest): Callsmusic Developer
+144
 
 ### Credits
 #### Special Credits
-- [Zaute-Km](https://github.com/Zaute-Km): LushaiMusic Developer
+- [NAVYA](https://github.com/Zaute-Km): "(https://te.legra.ph/file/14e90ca6bf62514843d38.jpg") 
 - [Rojserbest](http://github.com/rojserbest): Callsmusic Developer
