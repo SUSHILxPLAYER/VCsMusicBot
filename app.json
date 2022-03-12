@@ -1,9 +1,9 @@
 {
   "name": "VCsMusicBot",
-  "logo": "https://telegra.ph/file/5a24274c6a6455f9a8d8f.png",
+  "logo": "https://te.legra.ph/file/14e90ca6bf62514843d38.jpg",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/LushaiMusic/VCsMusicBot",
+  "repository": "https://github.com/SUSHILxPLAYER/VCsMusicBot",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
@@ -45,12 +45,12 @@
     "BG_IMAGE": {
       "description": "BG image of bot (Use transparent one) [IGNORE].",
       "required": false,
-      "value": "https://telegra.ph/file/cf19dda907391656338eb.png"
+      "value": "https://te.legra.ph/file/767b98662001a88d36600.jpg"
     },     
     "UPDATES_CHANNEL": {
       "description": "Updates Channel without @ [Leave this if you don't have one].",
       "required": false,
-      "value": "ZauteKm"
+      "value": "NAVYA"
     },    
     "API_ID": {
       "description": "App ID from my.telegram.org/apps",
